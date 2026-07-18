@@ -14,3 +14,15 @@ A command-line interface (CLI) tool designed to help you study and compare eleme
 3. Run the main menu:
    ```bash
    python3 main.py
+
+Requirements
+
+    Python 3.6+
+
+Project Structure
+
+    main.py: The entry point for the CLI.
+
+    study/: Contains the logic for lookups, comparisons, and filtering.
+
+    data/: Contains the elements.json source file.
